@@ -1,8 +1,0 @@
-1. With the nut flush or top flush on board, bet for value on every street — don't slow-play. Size 60-80% pot on turn and river to extract maximum.
-2. With nut flush draws (Ah + heart on two-heart board), semi-bluff the flop with a bet of ~50-66% pot rather than checking passively. If you pick up additional equity on the turn (e.g., gutshot, pair), continue barreling 55-70% pot. Do NOT check twice with the nut flush draw — this is a costly missed opportunity for fold equity and pot-building.
-3. In the big blind facing limps preflop, check with marginal-to-good hands (suited aces, broadways) to see a cheap flop — these hands play well postflop with implied odds.
-4. Raise or re-raise preflop with premium hands (AQs+, AQo+, TT+, KQs). NEVER flat-call with QQ+ or AK — always raise or 3-bet. Standard open-raise to 2.5-3x BB; 3-bet to 3-4x the open raise.
-5. When you flop top pair or better (especially two pair+), bet for value on every street. Don't slow-play strong made hands — size 50-75% pot on flop, 60-80% pot on turn and river.
-6. With pocket pairs TT-QQ on A-high or K-high flops, exercise pot control. Check-call at most one street — do NOT build large pots with an unimproved underpair. Fold to heavy aggression.
-7. With strong draws (flush draws, open-enders, combo draws), default to betting/raising rather than checking/calling. Aggression with draws builds pots for when you hit and wins pots immediately when opponents fold.
-8. Bluff when you see fit, also try to figure out if other people are bluffing (update this rule as you learn more).
