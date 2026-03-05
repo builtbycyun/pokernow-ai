@@ -1,0 +1,6 @@
+websocket-client
+requests
+anthropic
+python-dotenv
+flask
+flask-socketio

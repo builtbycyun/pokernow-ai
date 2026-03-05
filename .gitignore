@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+*.log
+raw_messages.txt
+.claude/
