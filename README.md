@@ -1,6 +1,7 @@
 # Poker Bot
 
 An AI-powered poker bot that plays on [PokerNow.com](https://www.pokernow.com) using Claude as its decision engine. Features a real-time cyberpunk web UI, deterministic hand analysis, and a self-learning training loop.
+<img width="1901" height="921" alt="image" src="https://github.com/user-attachments/assets/4ff1d928-c3d3-4df0-8acc-35a8488d5577" />
 
 ## Architecture
 
